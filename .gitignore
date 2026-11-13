@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# Never commit secrets: keep them in GitHub Actions secrets or a local .env
+.env
+.env.*
+!.env.example

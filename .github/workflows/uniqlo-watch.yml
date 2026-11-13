@@ -1,0 +1,55 @@
+name: Uniqlo price watch
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # every hour at :17 (UTC)
+  workflow_dispatch: {}     # "Run workflow" button for a manual check
+
+permissions:
+  contents: write           # lets the job commit the updated snapshot
+
+concurrency:
+  group: uniqlo-watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Check Uniqlo and notify
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+          SMS_EMAIL_TO: ${{ secrets.SMS_EMAIL_TO }}
+          TWILIO_ACCOUNT_SID: ${{ secrets.TWILIO_ACCOUNT_SID }}
+          TWILIO_AUTH_TOKEN: ${{ secrets.TWILIO_AUTH_TOKEN }}
+          TWILIO_FROM: ${{ secrets.TWILIO_FROM }}
+          SMS_TO: ${{ secrets.SMS_TO }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          UNIQLO_REGION: ${{ vars.UNIQLO_REGION || 'us' }}
+          WATCH_KEYWORDS: ${{ vars.WATCH_KEYWORDS }}
+          MIN_PRICE_CHANGE: ${{ vars.MIN_PRICE_CHANGE || '0.01' }}
+          NOTIFY_REMOVED: ${{ vars.NOTIFY_REMOVED || 'false' }}
+        run: python uniqlo_agent.py
+      - name: Save snapshot
+        run: |
+          git config user.name "uniqlo-watch-bot"
+          git config user.email "uniqlo-watch-bot@users.noreply.github.com"
+          git add state/snapshot.json
+          git diff --cached --quiet || git commit -m "Update Uniqlo snapshot" && git push
