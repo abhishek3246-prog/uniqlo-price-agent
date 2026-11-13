@@ -522,15 +522,6 @@
 "price": 14.9,
 "url": "https://www.uniqlo.com/us/en/products/E461013-000/00"
 },
-"E461025-000": {
-"base": 3.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E461025-000",
-"name": "Colorful 50 Socks",
-"price": 3.9,
-"url": "https://www.uniqlo.com/us/en/products/E461025-000/00"
-},
 "E461325-000": {
 "base": 29.9,
 "currency": "$",
@@ -1495,13 +1486,13 @@
 "url": "https://www.uniqlo.com/us/en/products/E475598-000/00"
 },
 "E475647-000": {
-"base": 29.9,
+"base": 49.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E475647-000",
 "name": "Premium Linen Shirt",
-"price": 29.9,
-"url": "https://www.uniqlo.com/us/en/products/E475647-000/01"
+"price": 49.9,
+"url": "https://www.uniqlo.com/us/en/products/E475647-000/00"
 },
 "E475649-000": {
 "base": 49.9,
@@ -1664,15 +1655,6 @@
 "name": "Super Non-Iron Slim Shirt | Button Down Collar | Striped",
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E478003-000/00"
-},
-"E478007-000": {
-"base": 49.9,
-"currency": "$",
-"gender": "MEN",
-"id": "E478007-000",
-"name": "Super Non-Iron Slim Shirt | Spread Collar | Checked",
-"price": 49.9,
-"url": "https://www.uniqlo.com/us/en/products/E478007-000/00"
 },
 "E478009-000": {
 "base": 39.9,
@@ -2449,12 +2431,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E481660-000/00"
 },
 "E481675-000": {
-"base": 179.9,
+"base": 149.9,
 "currency": "$",
 "gender": "MEN",
 "id": "E481675-000",
 "name": "Hybrid Down Coat",
-"price": 179.9,
+"price": 149.9,
 "url": "https://www.uniqlo.com/us/en/products/E481675-000/00"
 },
 "E481731-000": {
@@ -2701,13 +2683,13 @@
 "url": "https://www.uniqlo.com/us/en/products/E482259-000/00"
 },
 "E482279-000": {
-"base": 39.9,
+"base": 19.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E482279-000",
 "name": "Straight Jeans",
-"price": 39.9,
-"url": "https://www.uniqlo.com/us/en/products/E482279-000/00"
+"price": 19.9,
+"url": "https://www.uniqlo.com/us/en/products/E482279-000/01"
 },
 "E482280-000": {
 "base": 39.9,
@@ -3051,6 +3033,15 @@
 "price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E482804-000/00"
 },
+"E482823-000": {
+"base": 9.9,
+"currency": "$",
+"gender": "WOMEN",
+"id": "E482823-000",
+"name": "Rayon Blouse | Striped",
+"price": 9.9,
+"url": "https://www.uniqlo.com/us/en/products/E482823-000/00"
+},
 "E482839-000": {
 "base": 29.9,
 "currency": "$",
@@ -3088,12 +3079,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E482868-000/00"
 },
 "E482883-000": {
-"base": 39.9,
+"base": 29.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E482883-000",
 "name": "Wide Cargo Pants",
-"price": 39.9,
+"price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E482883-000/00"
 },
 "E482886-000": {
@@ -4942,12 +4933,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E486176-000/00"
 },
 "E486177-000": {
-"base": 129.9,
+"base": 99.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E486177-000",
 "name": "Light Down Volume Jacket",
-"price": 129.9,
+"price": 99.9,
 "url": "https://www.uniqlo.com/us/en/products/E486177-000/00"
 },
 "E486184-000": {
@@ -5068,12 +5059,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E486296-000/00"
 },
 "E486316-000": {
-"base": 29.9,
+"base": 19.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E486316-000",
 "name": "Flannel Easy Pants",
-"price": 29.9,
+"price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E486316-000/00"
 },
 "E486317-000": {
@@ -5563,12 +5554,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E486615-000/00"
 },
 "E486624-000": {
-"base": 89.9,
+"base": 79.9,
 "currency": "$",
 "gender": "KIDS",
 "id": "E486624-000",
 "name": "Down Parka",
-"price": 89.9,
+"price": 79.9,
 "url": "https://www.uniqlo.com/us/en/products/E486624-000/00"
 },
 "E486629-000": {
@@ -6490,12 +6481,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E487270-000/00"
 },
 "E487272-000": {
-"base": 29.9,
+"base": 19.9,
 "currency": "$",
 "gender": "KIDS",
 "id": "E487272-000",
 "name": "CHIIKAWA Sweatshirt",
-"price": 29.9,
+"price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E487272-000/00"
 },
 "E487277-000": {
@@ -6544,12 +6535,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E487326-000/00"
 },
 "E487328-000": {
-"base": 149.9,
+"base": 129.9,
 "currency": "$",
 "gender": "MEN",
 "id": "E487328-000",
 "name": "Balmacaan Coat",
-"price": 149.9,
+"price": 129.9,
 "url": "https://www.uniqlo.com/us/en/products/E487328-000/00"
 },
 "E487337-000": {
@@ -7192,12 +7183,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E487962-000/00"
 },
 "E487978-000": {
-"base": 29.9,
+"base": 19.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E487978-000",
 "name": "Slim Straight Jeans",
-"price": 29.9,
+"price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E487978-000/00"
 },
 "E487995-000": {
@@ -7579,12 +7570,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E488168-000/00"
 },
 "E488169-000": {
-"base": 29.9,
+"base": 19.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E488169-000",
 "name": "Flannel Easy Pants | Check",
-"price": 29.9,
+"price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E488169-000/00"
 },
 "E488173-000": {
@@ -7641,6 +7632,15 @@
 "price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E488187-000/00"
 },
+"E488191-000": {
+"base": 39.9,
+"currency": "$",
+"gender": "WOMEN",
+"id": "E488191-000",
+"name": "Lambswool Stand Collar Cardigan",
+"price": 39.9,
+"url": "https://www.uniqlo.com/us/en/products/E488191-000/00"
+},
 "E488193-000": {
 "base": 19.9,
 "currency": "$",
@@ -7685,6 +7685,15 @@
 "name": "Merino Blend Henley Neck Sweater | Stripe",
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E488210-000/00"
+},
+"E488222-000": {
+"base": 29.9,
+"currency": "$",
+"gender": "WOMEN",
+"id": "E488222-000",
+"name": "Fleece Short Jacket",
+"price": 29.9,
+"url": "https://www.uniqlo.com/us/en/products/E488222-000/00"
 },
 "E488227-000": {
 "base": 49.9,
@@ -8011,12 +8020,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E488522-000/00"
 },
 "E488559-000": {
-"base": 39.9,
+"base": 29.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E488559-000",
 "name": "Flannel Boxy Shirt",
-"price": 39.9,
+"price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E488559-000/00"
 },
 "E488560-000": {
@@ -8029,12 +8038,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E488560-000/00"
 },
 "E488562-000": {
-"base": 69.9,
+"base": 59.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E488562-000",
 "name": "Padded Short Jacket",
-"price": 69.9,
+"price": 59.9,
 "url": "https://www.uniqlo.com/us/en/products/E488562-000/00"
 },
 "E488571-000": {
@@ -8137,12 +8146,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E488694-000/00"
 },
 "E488723-000": {
-"base": 69.9,
+"base": 59.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E488723-000",
 "name": "Faux Fur Hooded Jacket",
-"price": 69.9,
+"price": 59.9,
 "url": "https://www.uniqlo.com/us/en/products/E488723-000/00"
 },
 "E488726-000": {
@@ -8216,6 +8225,15 @@
 "name": "Rugger Shirt",
 "price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E488751-000/00"
+},
+"E488758-000": {
+"base": 19.9,
+"currency": "$",
+"gender": "UNISEX",
+"id": "E488758-000",
+"name": "Double Face Sweater",
+"price": 19.9,
+"url": "https://www.uniqlo.com/us/en/products/E488758-000/00"
 },
 "E488760-000": {
 "base": 39.9,
@@ -8425,12 +8443,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E488828-000/00"
 },
 "E488830-000": {
-"base": 179.9,
+"base": 149.9,
 "currency": "$",
 "gender": "MEN",
 "id": "E488830-000",
 "name": "Hybrid Down Coat",
-"price": 179.9,
+"price": 149.9,
 "url": "https://www.uniqlo.com/us/en/products/E488830-000/00"
 },
 "E488845-000": {
@@ -9262,21 +9280,21 @@
 "url": "https://www.uniqlo.com/us/en/products/E489405-000/00"
 },
 "E489406-000": {
-"base": 39.9,
+"base": 29.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E489406-000",
 "name": "Flannel Boxy Shirt | Check",
-"price": 39.9,
+"price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E489406-000/00"
 },
 "E489407-000": {
-"base": 39.9,
+"base": 29.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E489407-000",
 "name": "Flannel Boxy Shirt | Check",
-"price": 39.9,
+"price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E489407-000/00"
 },
 "E489408-000": {
@@ -9406,12 +9424,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E489456-000/00"
 },
 "E489482-000": {
-"base": 69.9,
+"base": 59.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E489482-000",
 "name": "Wool Blend Harrington Jacket",
-"price": 69.9,
+"price": 59.9,
 "url": "https://www.uniqlo.com/us/en/products/E489482-000/00"
 },
 "E489483-000": {
@@ -9460,12 +9478,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E489506-000/00"
 },
 "E489508-000": {
-"base": 39.9,
+"base": 29.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E489508-000",
 "name": "Flannel Boxy Shirt | Check",
-"price": 39.9,
+"price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E489508-000/00"
 },
 "E489509-000": {
@@ -9730,12 +9748,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E489687-000/00"
 },
 "E489763-000": {
-"base": 29.9,
+"base": 19.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E489763-000",
 "name": "Flannel Easy Pants | Gingham",
-"price": 29.9,
+"price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E489763-000/00"
 },
 "E489791-000": {
@@ -10432,21 +10450,21 @@
 "url": "https://www.uniqlo.com/us/en/products/E491281-000/00"
 },
 "E491284-000": {
-"base": 29.9,
+"base": 19.9,
 "currency": "$",
 "gender": "KIDS",
 "id": "E491284-000",
 "name": "CHIIKAWA Sweatshirt",
-"price": 29.9,
+"price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E491284-000/00"
 },
 "E491285-000": {
-"base": 29.9,
+"base": 19.9,
 "currency": "$",
 "gender": "KIDS",
 "id": "E491285-000",
 "name": "CHIIKAWA Sweatshirt",
-"price": 29.9,
+"price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E491285-000/00"
 },
 "E491287-000": {
@@ -11773,5 +11791,5 @@
 "url": "https://www.uniqlo.com/us/en/products/E495975-000/00"
 }
 },
-"saved_at": 1794545078
+"saved_at": 1794575196
 }
