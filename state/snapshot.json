@@ -1891,13 +1891,13 @@
 "url": "https://www.uniqlo.com/us/en/products/E478879-000/00"
 },
 "E478965-000": {
-"base": 34.9,
+"base": 29.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E478965-000",
 "name": "HEATTECH Ultra Warm T-Shirt",
-"price": 34.9,
-"url": "https://www.uniqlo.com/us/en/products/E478965-000/00"
+"price": 29.9,
+"url": "https://www.uniqlo.com/us/en/products/E478965-000/01"
 },
 "E479000-000": {
 "base": 39.9,
@@ -2737,13 +2737,13 @@
 "url": "https://www.uniqlo.com/us/en/products/E482299-000/01"
 },
 "E482304-000": {
-"base": 29.9,
+"base": 19.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E482304-000",
 "name": "DRY Pique Polo Shirt",
-"price": 29.9,
-"url": "https://www.uniqlo.com/us/en/products/E482304-000/00"
+"price": 19.9,
+"url": "https://www.uniqlo.com/us/en/products/E482304-000/01"
 },
 "E482305-000": {
 "base": 9.9,
@@ -3293,6 +3293,15 @@
 "name": "Geared Shorts | Amphibious",
 "price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E483406-000/00"
+},
+"E483430-000": {
+"base": 7.9,
+"currency": "$",
+"gender": "KIDS",
+"id": "E483430-000",
+"name": "DRY-EX V-Neck T-Shirt | Bicolor",
+"price": 7.9,
+"url": "https://www.uniqlo.com/us/en/products/E483430-000/00"
 },
 "E483443-000": {
 "base": 29.9,
@@ -4581,6 +4590,15 @@
 "price": 59.9,
 "url": "https://www.uniqlo.com/us/en/products/E485735-000/00"
 },
+"E485737-000": {
+"base": 49.9,
+"currency": "$",
+"gender": "MEN",
+"id": "E485737-000",
+"name": "Selvedge Straight Jeans",
+"price": 49.9,
+"url": "https://www.uniqlo.com/us/en/products/E485737-000/00"
+},
 "E485744-000": {
 "base": 49.9,
 "currency": "$",
@@ -4680,6 +4698,15 @@
 "price": 9.9,
 "url": "https://www.uniqlo.com/us/en/products/E485782-000/00"
 },
+"E485791-001": {
+"base": 19.9,
+"currency": "$",
+"gender": "KIDS",
+"id": "E485791-001",
+"name": "PEANUTS UV Protection Cap",
+"price": 19.9,
+"url": "https://www.uniqlo.com/us/en/products/E485791-001/00"
+},
 "E485800-000": {
 "base": 59.9,
 "currency": "$",
@@ -4760,6 +4787,15 @@
 "name": "Souffle Yarn Sweater",
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E486080-000/00"
+},
+"E486082-000": {
+"base": 19.9,
+"currency": "$",
+"gender": "MEN",
+"id": "E486082-000",
+"name": "3D Knit Mock Neck Sweater",
+"price": 19.9,
+"url": "https://www.uniqlo.com/us/en/products/E486082-000/00"
 },
 "E486086-000": {
 "base": 39.9,
@@ -5706,6 +5742,15 @@
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E486764-000/00"
 },
+"E486769-000": {
+"base": 49.9,
+"currency": "$",
+"gender": "UNISEX",
+"id": "E486769-000",
+"name": "Lace Up Shoes",
+"price": 49.9,
+"url": "https://www.uniqlo.com/us/en/products/E486769-000/00"
+},
 "E486770-000": {
 "base": 49.9,
 "currency": "$",
@@ -5930,6 +5975,15 @@
 "name": "HEATTECH Half Socks | Pile | Soft Fit",
 "price": 7.9,
 "url": "https://www.uniqlo.com/us/en/products/E486957-000/00"
+},
+"E486982-000": {
+"base": 19.9,
+"currency": "$",
+"gender": "WOMEN",
+"id": "E486982-000",
+"name": "Utility Volume Pants",
+"price": 19.9,
+"url": "https://www.uniqlo.com/us/en/products/E486982-000/00"
 },
 "E486986-000": {
 "base": 69.9,
@@ -6353,6 +6407,15 @@
 "name": "HEATTECH Extra Warm Cashmere Leggings",
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E487201-000/00"
+},
+"E487202-000": {
+"base": 19.9,
+"currency": "$",
+"gender": "WOMEN",
+"id": "E487202-000",
+"name": "Washable Knit Bra Top",
+"price": 19.9,
+"url": "https://www.uniqlo.com/us/en/products/E487202-000/00"
 },
 "E487206-000": {
 "base": 49.9,
@@ -7056,6 +7119,15 @@
 "price": 79.9,
 "url": "https://www.uniqlo.com/us/en/products/E487882-000/00"
 },
+"E487883-000": {
+"base": 49.9,
+"currency": "$",
+"gender": "WOMEN",
+"id": "E487883-000",
+"name": "Coated Blouson",
+"price": 49.9,
+"url": "https://www.uniqlo.com/us/en/products/E487883-000/00"
+},
 "E487888-000": {
 "base": 14.9,
 "currency": "$",
@@ -7613,6 +7685,15 @@
 "name": "Lambswool Sweater",
 "price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E488187-000/00"
+},
+"E488191-000": {
+"base": 39.9,
+"currency": "$",
+"gender": "WOMEN",
+"id": "E488191-000",
+"name": "Lambswool Stand Collar Cardigan",
+"price": 39.9,
+"url": "https://www.uniqlo.com/us/en/products/E488191-000/00"
 },
 "E488193-000": {
 "base": 19.9,
@@ -8847,15 +8928,6 @@
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E489121-000/00"
 },
-"E489136-000": {
-"base": 9.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E489136-000",
-"name": "Broadcloth Shirt | Short Sleeve | Print",
-"price": 9.9,
-"url": "https://www.uniqlo.com/us/en/products/E489136-000/00"
-},
 "E489146-000": {
 "base": 29.9,
 "currency": "$",
@@ -9314,6 +9386,15 @@
 "name": "Smart Wide Straight Pants | Check | Tall",
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E489416-000/00"
+},
+"E489425-000": {
+"base": 39.9,
+"currency": "$",
+"gender": "WOMEN",
+"id": "E489425-000",
+"name": "Cotton Stand Collar Shirt",
+"price": 39.9,
+"url": "https://www.uniqlo.com/us/en/products/E489425-000/00"
 },
 "E489427-000": {
 "base": 39.9,
@@ -11746,5 +11827,5 @@
 "url": "https://www.uniqlo.com/us/en/products/E495975-000/00"
 }
 },
-"saved_at": 1794646631
+"saved_at": 1794671272
 }
