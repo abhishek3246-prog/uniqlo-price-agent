@@ -478,13 +478,13 @@
 "url": "https://www.uniqlo.com/us/en/products/E460490-000/00"
 },
 "E460776-000": {
-"base": 3.9,
+"base": 9.9,
 "currency": "$",
 "gender": "BABY",
 "id": "E460776-000",
 "name": "Baby Ribbed Leggings",
-"price": 3.9,
-"url": "https://www.uniqlo.com/us/en/products/E460776-000/02"
+"price": 9.9,
+"url": "https://www.uniqlo.com/us/en/products/E460776-000/00"
 },
 "E460939-000": {
 "base": 39.9,
@@ -2169,15 +2169,6 @@
 "price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E480054-000/00"
 },
-"E480302-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E480302-000",
-"name": "Pleated Skort",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E480302-000/00"
-},
 "E480342-000": {
 "base": 29.9,
 "currency": "$",
@@ -2701,13 +2692,13 @@
 "url": "https://www.uniqlo.com/us/en/products/E482259-000/00"
 },
 "E482279-000": {
-"base": 19.9,
+"base": 39.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E482279-000",
 "name": "Straight Jeans",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E482279-000/01"
+"price": 39.9,
+"url": "https://www.uniqlo.com/us/en/products/E482279-000/00"
 },
 "E482280-000": {
 "base": 39.9,
@@ -2726,15 +2717,6 @@
 "name": "EZY Wide Straight Jeans",
 "price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E482281-000/00"
-},
-"E482285-000": {
-"base": 7.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E482285-000",
-"name": "Linen Blend Tuck Long Skirt",
-"price": 7.9,
-"url": "https://www.uniqlo.com/us/en/products/E482285-000/00"
 },
 "E482286-000": {
 "base": 49.9,
@@ -7074,15 +7056,6 @@
 "price": 79.9,
 "url": "https://www.uniqlo.com/us/en/products/E487882-000/00"
 },
-"E487883-000": {
-"base": 49.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E487883-000",
-"name": "Coated Blouson",
-"price": 49.9,
-"url": "https://www.uniqlo.com/us/en/products/E487883-000/00"
-},
 "E487888-000": {
 "base": 14.9,
 "currency": "$",
@@ -7632,15 +7605,6 @@
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E488185-000/00"
 },
-"E488186-000": {
-"base": 29.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E488186-000",
-"name": "Double Face Knit Sleeveless Dress",
-"price": 29.9,
-"url": "https://www.uniqlo.com/us/en/products/E488186-000/00"
-},
 "E488187-000": {
 "base": 39.9,
 "currency": "$",
@@ -8144,6 +8108,15 @@
 "name": "Denim Culottes",
 "price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E488694-000/00"
+},
+"E488722-000": {
+"base": 14.9,
+"currency": "$",
+"gender": "WOMEN",
+"id": "E488722-000",
+"name": "Washable Ribbed Knit Dress",
+"price": 14.9,
+"url": "https://www.uniqlo.com/us/en/products/E488722-000/00"
 },
 "E488723-000": {
 "base": 59.9,
@@ -10413,15 +10386,6 @@
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E491268-000/00"
 },
-"E491279-000": {
-"base": 9.9,
-"currency": "$",
-"gender": "KIDS",
-"id": "E491279-000",
-"name": "CHIIKAWA UT Graphic T-Shirt",
-"price": 9.9,
-"url": "https://www.uniqlo.com/us/en/products/E491279-000/00"
-},
 "E491280-000": {
 "base": 9.9,
 "currency": "$",
@@ -11782,5 +11746,5 @@
 "url": "https://www.uniqlo.com/us/en/products/E495975-000/00"
 }
 },
-"saved_at": 1794619604
+"saved_at": 1794646631
 }
