@@ -3294,15 +3294,6 @@
 "price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E483406-000/00"
 },
-"E483430-000": {
-"base": 7.9,
-"currency": "$",
-"gender": "KIDS",
-"id": "E483430-000",
-"name": "DRY-EX V-Neck T-Shirt | Bicolor",
-"price": 7.9,
-"url": "https://www.uniqlo.com/us/en/products/E483430-000/00"
-},
 "E483443-000": {
 "base": 29.9,
 "currency": "$",
@@ -3825,15 +3816,6 @@
 "price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E484499-000/00"
 },
-"E484502-000": {
-"base": 19.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E484502-000",
-"name": "miffy in bloom UT Graphic T-Shirt",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E484502-000/00"
-},
 "E484505-000": {
 "base": 49.9,
 "currency": "$",
@@ -4022,15 +4004,6 @@
 "name": "Baggy Barrel Jeans | Tall",
 "price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E484807-000/00"
-},
-"E484812-000": {
-"base": 39.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E484812-000",
-"name": "Straight Jeans | Short",
-"price": 39.9,
-"url": "https://www.uniqlo.com/us/en/products/E484812-000/00"
 },
 "E484855-000": {
 "base": 39.9,
@@ -4256,15 +4229,6 @@
 "name": "HEATTECH Socks | 2 Pairs | Fair Isle",
 "price": 9.9,
 "url": "https://www.uniqlo.com/us/en/products/E485394-000/00"
-},
-"E485396-000": {
-"base": 9.9,
-"currency": "$",
-"gender": "KIDS",
-"id": "E485396-000",
-"name": "HEATTECH Socks | 2 Pairs | Line",
-"price": 9.9,
-"url": "https://www.uniqlo.com/us/en/products/E485396-000/00"
 },
 "E485397-000": {
 "base": 9.9,
@@ -7640,15 +7604,6 @@
 "name": "Corduroy Short Jacket",
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E488200-000/00"
-},
-"E488210-000": {
-"base": 29.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E488210-000",
-"name": "Merino Blend Henley Neck Sweater | Stripe",
-"price": 29.9,
-"url": "https://www.uniqlo.com/us/en/products/E488210-000/00"
 },
 "E488227-000": {
 "base": 49.9,
@@ -11701,5 +11656,5 @@
 "url": "https://www.uniqlo.com/us/en/products/E495975-000/00"
 }
 },
-"saved_at": 1794757184
+"saved_at": 1794776534
 }
