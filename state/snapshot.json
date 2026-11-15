@@ -370,13 +370,13 @@
 "url": "https://www.uniqlo.com/us/en/products/E457912-000/00"
 },
 "E458325-000": {
-"base": 14.9,
+"base": 39.9,
 "currency": "$",
 "gender": "MEN",
 "id": "E458325-000",
 "name": "Stretch Easy Shorts | Seersucker | 8\"",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E458325-000/01"
+"price": 39.9,
+"url": "https://www.uniqlo.com/us/en/products/E458325-000/00"
 },
 "E458788-000": {
 "base": 9.9,
@@ -2269,13 +2269,13 @@
 "url": "https://www.uniqlo.com/us/en/products/E480740-000/00"
 },
 "E480764-000": {
-"base": 14.9,
+"base": 49.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E480764-000",
 "name": "Broadcloth Shirt | Button Down | Hairline Fabric",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E480764-000/01"
+"price": 49.9,
+"url": "https://www.uniqlo.com/us/en/products/E480764-000/00"
 },
 "E480814-000": {
 "base": 29.9,
@@ -2701,13 +2701,13 @@
 "url": "https://www.uniqlo.com/us/en/products/E482259-000/00"
 },
 "E482279-000": {
-"base": 19.9,
+"base": 39.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E482279-000",
 "name": "Straight Jeans",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E482279-000/01"
+"price": 39.9,
+"url": "https://www.uniqlo.com/us/en/products/E482279-000/00"
 },
 "E482280-000": {
 "base": 39.9,
@@ -3843,15 +3843,6 @@
 "price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E484499-000/00"
 },
-"E484500-000": {
-"base": 19.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E484500-000",
-"name": "miffy in bloom UT Graphic T-Shirt",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E484500-000/00"
-},
 "E484502-000": {
 "base": 19.9,
 "currency": "$",
@@ -4526,6 +4517,15 @@
 "name": "Ultra Stretch Active Shorts | 5\"",
 "price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E485602-000/00"
+},
+"E485616-000": {
+"base": 12.9,
+"currency": "$",
+"gender": "BABY",
+"id": "E485616-000",
+"name": "Baby AIRism Cotton T-Shirt | Patch",
+"price": 12.9,
+"url": "https://www.uniqlo.com/us/en/products/E485616-000/00"
 },
 "E485653-000": {
 "base": 49.9,
@@ -5264,15 +5264,6 @@
 "name": "Baby Socks | 3 Pairs",
 "price": 9.9,
 "url": "https://www.uniqlo.com/us/en/products/E486424-000/00"
-},
-"E486424-003": {
-"base": 9.9,
-"currency": "$",
-"gender": "BABY",
-"id": "E486424-003",
-"name": "Baby Socks | 3 Pairs",
-"price": 9.9,
-"url": "https://www.uniqlo.com/us/en/products/E486424-003/00"
 },
 "E486429-000": {
 "base": 24.9,
@@ -6408,15 +6399,6 @@
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E487201-000/00"
 },
-"E487202-000": {
-"base": 19.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E487202-000",
-"name": "Washable Knit Bra Top",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E487202-000/00"
-},
 "E487206-000": {
 "base": 49.9,
 "currency": "$",
@@ -6443,15 +6425,6 @@
 "name": "Slim Chino Pants",
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E487209-000/01"
-},
-"E487214-000": {
-"base": 39.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E487214-000",
-"name": "Barrel Chino Pants",
-"price": 39.9,
-"url": "https://www.uniqlo.com/us/en/products/E487214-000/00"
 },
 "E487218-000": {
 "base": 59.9,
@@ -6641,15 +6614,6 @@
 "name": "PUFFTECH Vest",
 "price": 69.9,
 "url": "https://www.uniqlo.com/us/en/products/E487348-000/00"
-},
-"E487374-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "MEN",
-"id": "E487374-000",
-"name": "Sweatpants | Tall",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E487374-000/00"
 },
 "E487396-000": {
 "base": 49.9,
@@ -6992,15 +6956,6 @@
 "name": "Shirt Dress",
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E487635-000/00"
-},
-"E487688-000": {
-"base": 39.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E487688-000",
-"name": "Coverall",
-"price": 39.9,
-"url": "https://www.uniqlo.com/us/en/products/E487688-000/00"
 },
 "E487689-000": {
 "base": 79.9,
@@ -8217,15 +8172,6 @@
 "price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E488694-000/00"
 },
-"E488722-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E488722-000",
-"name": "Washable Ribbed Knit Dress",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E488722-000/00"
-},
 "E488723-000": {
 "base": 59.9,
 "currency": "$",
@@ -8874,15 +8820,6 @@
 "price": 14.9,
 "url": "https://www.uniqlo.com/us/en/products/E489058-000/00"
 },
-"E489060-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E489060-000",
-"name": "Striped Polo Shirt | Long Sleeve",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E489060-000/00"
-},
 "E489071-000": {
 "base": 19.9,
 "currency": "$",
@@ -9458,15 +9395,6 @@
 "name": "Super Non-Iron Jersey Slim Shirt | Striped",
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E489448-000/00"
-},
-"E489451-000": {
-"base": 39.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E489451-000",
-"name": "Cotton Stand Collar Shirt | Stripe",
-"price": 39.9,
-"url": "https://www.uniqlo.com/us/en/products/E489451-000/00"
 },
 "E489452-000": {
 "base": 29.9,
@@ -10908,15 +10836,6 @@
 "price": 3.9,
 "url": "https://www.uniqlo.com/us/en/products/E492040-000/00"
 },
-"E492127-000": {
-"base": 19.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E492127-000",
-"name": "PEANUTS UT Graphic T-Shirt",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E492127-000/00"
-},
 "E492128-000": {
 "base": 29.9,
 "currency": "$",
@@ -11854,5 +11773,5 @@
 "url": "https://www.uniqlo.com/us/en/products/E495975-000/00"
 }
 },
-"saved_at": 1794688941
+"saved_at": 1794704460
 }
