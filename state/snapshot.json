@@ -7047,15 +7047,6 @@
 "price": 79.9,
 "url": "https://www.uniqlo.com/us/en/products/E487882-000/00"
 },
-"E487883-000": {
-"base": 49.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E487883-000",
-"name": "Coated Blouson",
-"price": 49.9,
-"url": "https://www.uniqlo.com/us/en/products/E487883-000/00"
-},
 "E487888-000": {
 "base": 14.9,
 "currency": "$",
@@ -11710,5 +11701,5 @@
 "url": "https://www.uniqlo.com/us/en/products/E495975-000/00"
 }
 },
-"saved_at": 1794729023
+"saved_at": 1794757184
 }
