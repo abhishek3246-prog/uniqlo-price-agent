@@ -1674,15 +1674,6 @@
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E478007-000/00"
 },
-"E478009-000": {
-"base": 39.9,
-"currency": "$",
-"gender": "MEN",
-"id": "E478009-000",
-"name": "Super Non-Iron Slim Shirt | Regular Collar | Checked",
-"price": 39.9,
-"url": "https://www.uniqlo.com/us/en/products/E478009-000/00"
-},
 "E478123-000": {
 "base": 49.9,
 "currency": "$",
@@ -2735,15 +2726,6 @@
 "name": "Tiered Maxi Skirt",
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E482286-000/00"
-},
-"E482291-000": {
-"base": 9.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E482291-000",
-"name": "Seersucker Volume Mini Skirt",
-"price": 9.9,
-"url": "https://www.uniqlo.com/us/en/products/E482291-000/00"
 },
 "E482299-000": {
 "base": 14.9,
@@ -4248,15 +4230,6 @@
 "price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E485342-000/00"
 },
-"E485347-000": {
-"base": 19.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E485347-000",
-"name": "miffy in bloom UT Graphic T-Shirt",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E485347-000/00"
-},
 "E485389-000": {
 "base": 12.9,
 "currency": "$",
@@ -4400,15 +4373,6 @@
 "name": "Bicolor T-Shirt",
 "price": 14.9,
 "url": "https://www.uniqlo.com/us/en/products/E485454-000/00"
-},
-"E485473-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E485473-000",
-"name": "Slit Skort",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E485473-000/00"
 },
 "E485481-000": {
 "base": 29.9,
@@ -5076,15 +5040,6 @@
 "price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E486214-000/00"
 },
-"E486295-000": {
-"base": 29.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E486295-000",
-"name": "PEANUTS Sweatshirt",
-"price": 29.9,
-"url": "https://www.uniqlo.com/us/en/products/E486295-000/00"
-},
 "E486296-000": {
 "base": 49.9,
 "currency": "$",
@@ -5750,15 +5705,6 @@
 "name": "Cashmere Knitted Gloves",
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E486764-000/00"
-},
-"E486770-000": {
-"base": 49.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E486770-000",
-"name": "Boots",
-"price": 49.9,
-"url": "https://www.uniqlo.com/us/en/products/E486770-000/00"
 },
 "E486772-000": {
 "base": 24.9,
@@ -7667,15 +7613,6 @@
 "name": "Lambswool Sweater",
 "price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E488187-000/00"
-},
-"E488191-000": {
-"base": 39.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E488191-000",
-"name": "Lambswool Stand Collar Cardigan",
-"price": 39.9,
-"url": "https://www.uniqlo.com/us/en/products/E488191-000/00"
 },
 "E488193-000": {
 "base": 19.9,
@@ -11773,5 +11710,5 @@
 "url": "https://www.uniqlo.com/us/en/products/E495975-000/00"
 }
 },
-"saved_at": 1794704460
+"saved_at": 1794729023
 }
