@@ -2737,13 +2737,13 @@
 "url": "https://www.uniqlo.com/us/en/products/E482304-000/00"
 },
 "E482305-000": {
-"base": 9.9,
+"base": 29.9,
 "currency": "$",
 "gender": "MEN",
 "id": "E482305-000",
 "name": "DRY-EX Polo Shirt",
-"price": 9.9,
-"url": "https://www.uniqlo.com/us/en/products/E482305-000/01"
+"price": 29.9,
+"url": "https://www.uniqlo.com/us/en/products/E482305-000/00"
 },
 "E482321-000": {
 "base": 29.9,
@@ -4437,15 +4437,6 @@
 "price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E485602-000/00"
 },
-"E485616-000": {
-"base": 12.9,
-"currency": "$",
-"gender": "BABY",
-"id": "E485616-000",
-"name": "Baby AIRism Cotton T-Shirt | Patch",
-"price": 12.9,
-"url": "https://www.uniqlo.com/us/en/products/E485616-000/00"
-},
 "E485653-000": {
 "base": 49.9,
 "currency": "$",
@@ -4563,15 +4554,6 @@
 "price": 24.9,
 "url": "https://www.uniqlo.com/us/en/products/E485757-000/00"
 },
-"E485760-000": {
-"base": 24.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E485760-000",
-"name": "Metal Sunglasses",
-"price": 24.9,
-"url": "https://www.uniqlo.com/us/en/products/E485760-000/00"
-},
 "E485761-000": {
 "base": 24.9,
 "currency": "$",
@@ -4634,15 +4616,6 @@
 "name": "Square Sunglasses",
 "price": 24.9,
 "url": "https://www.uniqlo.com/us/en/products/E485770-000/00"
-},
-"E485782-000": {
-"base": 9.9,
-"currency": "$",
-"gender": "MEN",
-"id": "E485782-000",
-"name": "DRY-EX Polo Shirt",
-"price": 9.9,
-"url": "https://www.uniqlo.com/us/en/products/E485782-000/00"
 },
 "E485800-000": {
 "base": 59.9,
@@ -9117,15 +9090,6 @@
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E489397-000/00"
 },
-"E489398-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E489398-000",
-"name": "Ribbed V-Neck Cardigan | Stripe",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E489398-000/00"
-},
 "E489399-000": {
 "base": 14.9,
 "currency": "$",
@@ -11638,5 +11602,5 @@
 "url": "https://www.uniqlo.com/us/en/products/E495975-000/00"
 }
 },
-"saved_at": 1794790844
+"saved_at": 1794815885
 }
