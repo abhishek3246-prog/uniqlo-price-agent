@@ -765,15 +765,6 @@
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E465193-000/00"
 },
-"E465203-000": {
-"base": 19.9,
-"currency": "$",
-"gender": "MEN",
-"id": "E465203-000",
-"name": "DRY-EX UV Protection Full-Zip Hoodie",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E465203-000/00"
-},
 "E465484-000": {
 "base": 49.9,
 "currency": "$",
@@ -8325,15 +8316,6 @@
 "price": 12.9,
 "url": "https://www.uniqlo.com/us/en/products/E488826-000/00"
 },
-"E488827-000": {
-"base": 9.9,
-"currency": "$",
-"gender": "KIDS",
-"id": "E488827-000",
-"name": "mofusand UT Graphic T-Shirt",
-"price": 9.9,
-"url": "https://www.uniqlo.com/us/en/products/E488827-000/00"
-},
 "E488828-000": {
 "base": 39.9,
 "currency": "$",
@@ -11656,5 +11638,5 @@
 "url": "https://www.uniqlo.com/us/en/products/E495975-000/00"
 }
 },
-"saved_at": 1794776534
+"saved_at": 1794790844
 }
