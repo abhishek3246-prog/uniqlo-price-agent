@@ -3654,15 +3654,6 @@
 "price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E484226-000/00"
 },
-"E484244-000": {
-"base": 49.9,
-"currency": "$",
-"gender": "MEN",
-"id": "E484244-000",
-"name": "Oxford Oversized Shirt",
-"price": 49.9,
-"url": "https://www.uniqlo.com/us/en/products/E484244-000/00"
-},
 "E484245-000": {
 "base": 29.9,
 "currency": "$",
@@ -4526,15 +4517,6 @@
 "name": "Ultra Stretch Active Jogger Pants",
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E485744-000/00"
-},
-"E485756-000": {
-"base": 24.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E485756-000",
-"name": "Square Sunglasses",
-"price": 24.9,
-"url": "https://www.uniqlo.com/us/en/products/E485756-000/00"
 },
 "E485757-000": {
 "base": 24.9,
@@ -5642,15 +5624,6 @@
 "name": "Cashmere Knitted Gloves",
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E486764-000/00"
-},
-"E486769-000": {
-"base": 39.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E486769-000",
-"name": "Lace Up Shoes",
-"price": 39.9,
-"url": "https://www.uniqlo.com/us/en/products/E486769-000/00"
 },
 "E486772-000": {
 "base": 24.9,
@@ -7946,15 +7919,6 @@
 "name": "Fleece Short Blouson",
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E488571-000/00"
-},
-"E488605-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E488605-000",
-"name": "Mock Neck T-Shirt | Long Sleeve",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E488605-000/00"
 },
 "E488644-000": {
 "base": 24.9,
@@ -11494,5 +11458,5 @@
 "url": "https://www.uniqlo.com/us/en/products/E495975-000/00"
 }
 },
-"saved_at": 1794970453
+"saved_at": 1795001834
 }
