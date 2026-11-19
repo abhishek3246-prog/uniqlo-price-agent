@@ -3987,6 +3987,15 @@
 "price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E484807-000/00"
 },
+"E484812-000": {
+"base": 39.9,
+"currency": "$",
+"gender": "WOMEN",
+"id": "E484812-000",
+"name": "Straight Jeans | Short",
+"price": 39.9,
+"url": "https://www.uniqlo.com/us/en/products/E484812-000/00"
+},
 "E484855-000": {
 "base": 39.9,
 "currency": "$",
@@ -6831,15 +6840,6 @@
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E487635-000/00"
 },
-"E487688-000": {
-"base": 39.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E487688-000",
-"name": "Coverall",
-"price": 39.9,
-"url": "https://www.uniqlo.com/us/en/products/E487688-000/00"
-},
 "E487689-000": {
 "base": 79.9,
 "currency": "$",
@@ -6920,6 +6920,15 @@
 "name": "MAGIC FOR ALL ICONS UT Graphic T-Shirt",
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E487807-000/00"
+},
+"E487829-000": {
+"base": 99.9,
+"currency": "$",
+"gender": "WOMEN",
+"id": "E487829-000",
+"name": "Double Face Tailored Jacket",
+"price": 99.9,
+"url": "https://www.uniqlo.com/us/en/products/E487829-000/00"
 },
 "E487830-000": {
 "base": 59.9,
@@ -7937,15 +7946,6 @@
 "name": "Fleece Short Blouson",
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E488571-000/00"
-},
-"E488599-000": {
-"base": 29.9,
-"currency": "$",
-"gender": "MEN",
-"id": "E488599-000",
-"name": "Brushed Full-Zip Blouson",
-"price": 29.9,
-"url": "https://www.uniqlo.com/us/en/products/E488599-000/00"
 },
 "E488644-000": {
 "base": 24.9,
@@ -10656,15 +10656,6 @@
 "price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E492167-000/00"
 },
-"E492171-000": {
-"base": 29.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E492171-000",
-"name": "Chino Wide Pants",
-"price": 29.9,
-"url": "https://www.uniqlo.com/us/en/products/E492171-000/00"
-},
 "E492193-000": {
 "base": 29.9,
 "currency": "$",
@@ -11629,5 +11620,5 @@
 "url": "https://www.uniqlo.com/us/en/products/E495975-000/00"
 }
 },
-"saved_at": 1795055601
+"saved_at": 1795088161
 }
