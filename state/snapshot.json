@@ -478,13 +478,13 @@
 "url": "https://www.uniqlo.com/us/en/products/E460490-000/00"
 },
 "E460776-000": {
-"base": 9.9,
+"base": 7.9,
 "currency": "$",
 "gender": "BABY",
 "id": "E460776-000",
 "name": "Baby Ribbed Leggings",
-"price": 9.9,
-"url": "https://www.uniqlo.com/us/en/products/E460776-000/00"
+"price": 7.9,
+"url": "https://www.uniqlo.com/us/en/products/E460776-000/01"
 },
 "E460939-000": {
 "base": 39.9,
@@ -3366,6 +3366,15 @@
 "price": 9.9,
 "url": "https://www.uniqlo.com/us/en/products/E483675-000/00"
 },
+"E483676-000": {
+"base": 9.9,
+"currency": "$",
+"gender": "KIDS",
+"id": "E483676-000",
+"name": "Pokémon UT Graphic T-Shirt",
+"price": 9.9,
+"url": "https://www.uniqlo.com/us/en/products/E483676-000/00"
+},
 "E483677-000": {
 "base": 9.9,
 "currency": "$",
@@ -3887,15 +3896,6 @@
 "name": "Gift Bag",
 "price": 3.9,
 "url": "https://www.uniqlo.com/us/en/products/E484719-000/00"
-},
-"E484759-000": {
-"base": 29.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E484759-000",
-"name": "MAGIC FOR ALL ICONS UT Graphic T-Shirt",
-"price": 29.9,
-"url": "https://www.uniqlo.com/us/en/products/E484759-000/00"
 },
 "E484762-000": {
 "base": 29.9,
@@ -5509,13 +5509,13 @@
 "url": "https://www.uniqlo.com/us/en/products/E486637-000/01"
 },
 "E486638-000": {
-"base": 29.9,
+"base": 24.9,
 "currency": "$",
 "gender": "KIDS",
 "id": "E486638-000",
 "name": "Jersey Regular Color Jeans",
-"price": 29.9,
-"url": "https://www.uniqlo.com/us/en/products/E486638-000/00"
+"price": 24.9,
+"url": "https://www.uniqlo.com/us/en/products/E486638-000/01"
 },
 "E486658-000": {
 "base": 19.9,
@@ -7056,15 +7056,6 @@
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E487943-000/00"
 },
-"E487950-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "BABY",
-"id": "E487950-000",
-"name": "Baby Salopette",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E487950-000/00"
-},
 "E487957-000": {
 "base": 49.9,
 "currency": "$",
@@ -7568,15 +7559,6 @@
 "name": "Corduroy Short Jacket",
 "price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E488200-000/00"
-},
-"E488206-000": {
-"base": 19.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E488206-000",
-"name": "Denim Blouse",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E488206-000/00"
 },
 "E488227-000": {
 "base": 49.9,
@@ -10449,15 +10431,6 @@
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E491588-000/00"
 },
-"E491602-000": {
-"base": 9.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E491602-000",
-"name": "Pointelle Cardigan | Heart",
-"price": 9.9,
-"url": "https://www.uniqlo.com/us/en/products/E491602-000/00"
-},
 "E491606-000": {
 "base": 39.9,
 "currency": "$",
@@ -11611,5 +11584,5 @@
 "url": "https://www.uniqlo.com/us/en/products/E495975-000/00"
 }
 },
-"saved_at": 1795141112
+"saved_at": 1795174374
 }
