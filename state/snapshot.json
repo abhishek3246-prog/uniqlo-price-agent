@@ -937,13 +937,13 @@
 "url": "https://www.uniqlo.com/us/en/products/E469411-000/00"
 },
 "E469617-000": {
-"base": 9.9,
+"base": 7.9,
 "currency": "$",
 "gender": "BABY",
 "id": "E469617-000",
 "name": "Baby Relaxed Leggings | Denim Like",
-"price": 9.9,
-"url": "https://www.uniqlo.com/us/en/products/E469617-000/00"
+"price": 7.9,
+"url": "https://www.uniqlo.com/us/en/products/E469617-000/01"
 },
 "E469700-000": {
 "base": 7.9,
@@ -2871,15 +2871,6 @@
 "price": 14.9,
 "url": "https://www.uniqlo.com/us/en/products/E482558-000/00"
 },
-"E482601-000": {
-"base": 3.9,
-"currency": "$",
-"gender": "MEN",
-"id": "E482601-000",
-"name": "Low Rise Boxer Briefs",
-"price": 3.9,
-"url": "https://www.uniqlo.com/us/en/products/E482601-000/00"
-},
 "E482605-000": {
 "base": 3.9,
 "currency": "$",
@@ -3214,13 +3205,13 @@
 "url": "https://www.uniqlo.com/us/en/products/E483281-000/00"
 },
 "E483282-000": {
-"base": 19.9,
+"base": 39.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E483282-000",
 "name": "Wide Sweatpants",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E483282-000/01"
+"price": 39.9,
+"url": "https://www.uniqlo.com/us/en/products/E483282-000/00"
 },
 "E483285-000": {
 "base": 49.9,
@@ -4977,15 +4968,6 @@
 "price": 14.9,
 "url": "https://www.uniqlo.com/us/en/products/E486214-000/00"
 },
-"E486295-000": {
-"base": 19.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E486295-000",
-"name": "PEANUTS Sweatshirt",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E486295-000/00"
-},
 "E486296-000": {
 "base": 39.9,
 "currency": "$",
@@ -5661,15 +5643,6 @@
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E486764-000/00"
 },
-"E486769-000": {
-"base": 39.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E486769-000",
-"name": "Lace Up Shoes",
-"price": 39.9,
-"url": "https://www.uniqlo.com/us/en/products/E486769-000/00"
-},
 "E486772-000": {
 "base": 24.9,
 "currency": "$",
@@ -6335,15 +6308,6 @@
 "name": "Slim Chino Pants",
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E487209-000/01"
-},
-"E487214-000": {
-"base": 29.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E487214-000",
-"name": "Barrel Chino Pants",
-"price": 29.9,
-"url": "https://www.uniqlo.com/us/en/products/E487214-000/00"
 },
 "E487218-001": {
 "base": 59.9,
@@ -7020,15 +6984,6 @@
 "price": 79.9,
 "url": "https://www.uniqlo.com/us/en/products/E487882-000/00"
 },
-"E487883-000": {
-"base": 39.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E487883-000",
-"name": "Coated Blouson",
-"price": 39.9,
-"url": "https://www.uniqlo.com/us/en/products/E487883-000/00"
-},
 "E487888-000": {
 "base": 14.9,
 "currency": "$",
@@ -7614,15 +7569,6 @@
 "price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E488200-000/00"
 },
-"E488206-000": {
-"base": 19.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E488206-000",
-"name": "Denim Blouse",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E488206-000/00"
-},
 "E488210-000": {
 "base": 29.9,
 "currency": "$",
@@ -7640,15 +7586,6 @@
 "name": "3D Knit Cotton Volume Sleeve Sweater | Stripe",
 "price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E488227-000/00"
-},
-"E488228-000": {
-"base": 19.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E488228-000",
-"name": "Turtleneck Long T-Shirt | Long Sleeve",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E488228-000/00"
 },
 "E488230-000": {
 "base": 14.9,
@@ -7982,15 +7919,6 @@
 "name": "Fleece Short Blouson",
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E488571-000/00"
-},
-"E488599-000": {
-"base": 29.9,
-"currency": "$",
-"gender": "MEN",
-"id": "E488599-000",
-"name": "Brushed Full-Zip Blouson",
-"price": 29.9,
-"url": "https://www.uniqlo.com/us/en/products/E488599-000/00"
 },
 "E488644-000": {
 "base": 24.9,
@@ -8577,15 +8505,6 @@
 "price": 12.9,
 "url": "https://www.uniqlo.com/us/en/products/E488958-000/00"
 },
-"E488960-000": {
-"base": 12.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E488960-000",
-"name": "Sheer Knee High Socks | 2 Pair",
-"price": 12.9,
-"url": "https://www.uniqlo.com/us/en/products/E488960-000/00"
-},
 "E488962-000": {
 "base": 7.9,
 "currency": "$",
@@ -8694,14 +8613,14 @@
 "price": 14.9,
 "url": "https://www.uniqlo.com/us/en/products/E489058-000/00"
 },
-"E489060-000": {
+"E489061-000": {
 "base": 14.9,
 "currency": "$",
 "gender": "UNISEX",
-"id": "E489060-000",
+"id": "E489061-000",
 "name": "Striped Polo Shirt | Long Sleeve",
 "price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E489060-000/00"
+"url": "https://www.uniqlo.com/us/en/products/E489061-000/00"
 },
 "E489071-000": {
 "base": 19.9,
@@ -10278,15 +10197,6 @@
 "price": 14.9,
 "url": "https://www.uniqlo.com/us/en/products/E491287-000/00"
 },
-"E491289-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "KIDS",
-"id": "E491289-000",
-"name": "Mario Kart World Sweat Hoodie",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E491289-000/00"
-},
 "E491292-000": {
 "base": 59.9,
 "currency": "$",
@@ -11656,5 +11566,5 @@
 "url": "https://www.uniqlo.com/us/en/products/E495975-000/00"
 }
 },
-"saved_at": 1795224633
+"saved_at": 1795254417
 }
