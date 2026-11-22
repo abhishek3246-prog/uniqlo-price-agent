@@ -1521,15 +1521,6 @@
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E475763-000/00"
 },
-"E476108-000": {
-"base": 39.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E476108-000",
-"name": "Wide Sweatpants | 2025 Version",
-"price": 39.9,
-"url": "https://www.uniqlo.com/us/en/products/E476108-000/00"
-},
 "E476209-001": {
 "base": 49.9,
 "currency": "$",
@@ -1637,15 +1628,6 @@
 "name": "Jersey Barrel Pants | Tall",
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E477345-000/01"
-},
-"E477704-000": {
-"base": 99.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E477704-000",
-"name": "AirSense Blazer",
-"price": 99.9,
-"url": "https://www.uniqlo.com/us/en/products/E477704-000/00"
 },
 "E477753-000": {
 "base": 39.9,
@@ -3519,15 +3501,6 @@
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E483872-000/00"
 },
-"E483880-000": {
-"base": 19.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E483880-000",
-"name": "Cotton Oversized Shirt",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E483880-000/00"
-},
 "E483888-000": {
 "base": 7.9,
 "currency": "$",
@@ -4744,13 +4717,13 @@
 "url": "https://www.uniqlo.com/us/en/products/E486098-000/00"
 },
 "E486103-000": {
-"base": 19.9,
+"base": 29.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E486103-000",
 "name": "AIRism Cotton Striped T-Shirt",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E486103-000/01"
+"price": 29.9,
+"url": "https://www.uniqlo.com/us/en/products/E486103-000/00"
 },
 "E486116-000": {
 "base": 69.9,
@@ -5652,6 +5625,15 @@
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E486764-000/00"
 },
+"E486770-000": {
+"base": 39.9,
+"currency": "$",
+"gender": "WOMEN",
+"id": "E486770-000",
+"name": "Boots",
+"price": 39.9,
+"url": "https://www.uniqlo.com/us/en/products/E486770-000/00"
+},
 "E486772-000": {
 "base": 24.9,
 "currency": "$",
@@ -6435,6 +6417,15 @@
 "price": 14.9,
 "url": "https://www.uniqlo.com/us/en/products/E487286-000/00"
 },
+"E487294-000": {
+"base": 39.9,
+"currency": "$",
+"gender": "WOMEN",
+"id": "E487294-000",
+"name": "Knitted Polo Dress",
+"price": 39.9,
+"url": "https://www.uniqlo.com/us/en/products/E487294-000/00"
+},
 "E487323-000": {
 "base": 229.9,
 "currency": "$",
@@ -6992,15 +6983,6 @@
 "name": "Hybrid Down Short Jacket",
 "price": 79.9,
 "url": "https://www.uniqlo.com/us/en/products/E487882-000/00"
-},
-"E487883-000": {
-"base": 39.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E487883-000",
-"name": "Coated Blouson",
-"price": 39.9,
-"url": "https://www.uniqlo.com/us/en/products/E487883-000/00"
 },
 "E487888-000": {
 "base": 14.9,
@@ -8667,15 +8649,6 @@
 "price": 14.9,
 "url": "https://www.uniqlo.com/us/en/products/E489085-000/00"
 },
-"E489108-000": {
-"base": 39.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E489108-000",
-"name": "Jersey Tailored Jacket",
-"price": 39.9,
-"url": "https://www.uniqlo.com/us/en/products/E489108-000/00"
-},
 "E489121-000": {
 "base": 49.9,
 "currency": "$",
@@ -9017,15 +8990,6 @@
 "name": "Washable Knit Pants | Smooth | Tall",
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E489397-000/00"
-},
-"E489398-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E489398-000",
-"name": "Ribbed V-Neck Cardigan | Stripe",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E489398-000/00"
 },
 "E489399-000": {
 "base": 14.9,
@@ -11566,5 +11530,5 @@
 "url": "https://www.uniqlo.com/us/en/products/E495975-000/00"
 }
 },
-"saved_at": 1795317006
+"saved_at": 1795346292
 }
