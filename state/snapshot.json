@@ -1656,15 +1656,6 @@
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E478003-000/00"
 },
-"E478007-000": {
-"base": 49.9,
-"currency": "$",
-"gender": "MEN",
-"id": "E478007-000",
-"name": "Super Non-Iron Slim Shirt | Spread Collar | Checked",
-"price": 49.9,
-"url": "https://www.uniqlo.com/us/en/products/E478007-000/00"
-},
 "E478123-000": {
 "base": 39.9,
 "currency": "$",
@@ -5625,15 +5616,6 @@
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E486764-000/00"
 },
-"E486770-000": {
-"base": 39.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E486770-000",
-"name": "Boots",
-"price": 39.9,
-"url": "https://www.uniqlo.com/us/en/products/E486770-000/00"
-},
 "E486772-000": {
 "base": 24.9,
 "currency": "$",
@@ -6389,15 +6371,6 @@
 "name": "CHIIKAWA Sweatshirt",
 "price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E487272-000/00"
-},
-"E487273-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "KIDS",
-"id": "E487273-000",
-"name": "Pleated Mini Skort",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E487273-000/00"
 },
 "E487277-000": {
 "base": 9.9,
@@ -7667,15 +7640,6 @@
 "name": "MANGA UT SHUEISHA 100th UT Graphic T-Shirt | NARUTO",
 "price": 14.9,
 "url": "https://www.uniqlo.com/us/en/products/E488254-000/00"
-},
-"E488258-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E488258-000",
-"name": "MANGA UT SHUEISHA 100th UT Graphic T-Shirt | KAGUYA-SAMA LOVE IS WAR",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E488258-000/00"
 },
 "E488261-000": {
 "base": 14.9,
@@ -10557,15 +10521,6 @@
 "price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E492167-000/00"
 },
-"E492171-000": {
-"base": 29.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E492171-000",
-"name": "Chino Wide Pants",
-"price": 29.9,
-"url": "https://www.uniqlo.com/us/en/products/E492171-000/00"
-},
 "E492193-000": {
 "base": 29.9,
 "currency": "$",
@@ -11530,5 +11485,5 @@
 "url": "https://www.uniqlo.com/us/en/products/E495975-000/00"
 }
 },
-"saved_at": 1795346292
+"saved_at": 1795376103
 }
