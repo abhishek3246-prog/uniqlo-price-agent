@@ -1521,6 +1521,15 @@
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E475763-000/00"
 },
+"E476108-000": {
+"base": 39.9,
+"currency": "$",
+"gender": "WOMEN",
+"id": "E476108-000",
+"name": "Wide Sweatpants | 2025 Version",
+"price": 39.9,
+"url": "https://www.uniqlo.com/us/en/products/E476108-000/00"
+},
 "E476209-001": {
 "base": 49.9,
 "currency": "$",
@@ -3798,15 +3807,6 @@
 "price": 14.9,
 "url": "https://www.uniqlo.com/us/en/products/E484499-000/00"
 },
-"E484501-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E484501-000",
-"name": "miffy in bloom UT Graphic T-Shirt",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E484501-000/00"
-},
 "E484505-000": {
 "base": 49.9,
 "currency": "$",
@@ -5652,15 +5652,6 @@
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E486764-000/00"
 },
-"E486770-000": {
-"base": 39.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E486770-000",
-"name": "Boots",
-"price": 39.9,
-"url": "https://www.uniqlo.com/us/en/products/E486770-000/00"
-},
 "E486772-000": {
 "base": 24.9,
 "currency": "$",
@@ -6444,15 +6435,6 @@
 "price": 14.9,
 "url": "https://www.uniqlo.com/us/en/products/E487286-000/00"
 },
-"E487294-000": {
-"base": 39.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E487294-000",
-"name": "Knitted Polo Dress",
-"price": 39.9,
-"url": "https://www.uniqlo.com/us/en/products/E487294-000/00"
-},
 "E487323-000": {
 "base": 229.9,
 "currency": "$",
@@ -6803,15 +6785,6 @@
 "name": "Mini T-Shirt | Long Sleeve",
 "price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E487579-000/00"
-},
-"E487585-000": {
-"base": 19.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E487585-000",
-"name": "Button Up Sweat Pullover",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E487585-000/00"
 },
 "E487589-000": {
 "base": 39.9,
@@ -7686,15 +7659,6 @@
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E488250-000/00"
 },
-"E488251-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E488251-000",
-"name": "MANGA UT SHUEISHA 100th UT Graphic T-Shirt | NARUTO",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E488251-000/00"
-},
 "E488252-000": {
 "base": 19.9,
 "currency": "$",
@@ -8027,15 +7991,6 @@
 "name": "Fluffy Cashmere Vest",
 "price": 79.9,
 "url": "https://www.uniqlo.com/us/en/products/E488691-000/00"
-},
-"E488693-000": {
-"base": 29.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E488693-000",
-"name": "Cotton Stand Collar Dress",
-"price": 29.9,
-"url": "https://www.uniqlo.com/us/en/products/E488693-000/00"
 },
 "E488694-000": {
 "base": 19.9,
@@ -8667,15 +8622,6 @@
 "price": 14.9,
 "url": "https://www.uniqlo.com/us/en/products/E489058-000/00"
 },
-"E489060-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E489060-000",
-"name": "Striped Polo Shirt | Long Sleeve",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E489060-000/00"
-},
 "E489071-000": {
 "base": 19.9,
 "currency": "$",
@@ -8702,15 +8648,6 @@
 "name": "PEANUTS Sweatshirt",
 "price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E489075-000/00"
-},
-"E489076-000": {
-"base": 19.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E489076-000",
-"name": "PEANUTS Sweatshirt",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E489076-000/00"
 },
 "E489078-000": {
 "base": 19.9,
@@ -11629,5 +11566,5 @@
 "url": "https://www.uniqlo.com/us/en/products/E495975-000/00"
 }
 },
-"saved_at": 1795302800
+"saved_at": 1795317006
 }
