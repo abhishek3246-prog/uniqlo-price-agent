@@ -216,6 +216,15 @@
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E455476-000/00"
 },
+"E455486-000": {
+"base": 29.9,
+"currency": "$",
+"gender": "MEN",
+"id": "E455486-000",
+"name": "AirSense Pants | Wool-Like",
+"price": 29.9,
+"url": "https://www.uniqlo.com/us/en/products/E455486-000/00"
+},
 "E455533-000": {
 "base": 14.9,
 "currency": "$",
@@ -1521,6 +1530,15 @@
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E475763-000/00"
 },
+"E476108-000": {
+"base": 39.9,
+"currency": "$",
+"gender": "WOMEN",
+"id": "E476108-000",
+"name": "Wide Sweatpants | 2025 Version",
+"price": 39.9,
+"url": "https://www.uniqlo.com/us/en/products/E476108-000/00"
+},
 "E476209-001": {
 "base": 49.9,
 "currency": "$",
@@ -2439,6 +2457,15 @@
 "price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E481731-000/00"
 },
+"E481779-000": {
+"base": 9.9,
+"currency": "$",
+"gender": "BABY",
+"id": "E481779-000",
+"name": "Baby AIRism Cropped Leggings | Denim-Like",
+"price": 9.9,
+"url": "https://www.uniqlo.com/us/en/products/E481779-000/00"
+},
 "E481780-000": {
 "base": 9.9,
 "currency": "$",
@@ -3060,15 +3087,6 @@
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E482883-000/00"
 },
-"E482886-000": {
-"base": 19.9,
-"currency": "$",
-"gender": "MEN",
-"id": "E482886-000",
-"name": "Smart Ankle Pants",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E482886-000/00"
-},
 "E482920-000": {
 "base": 59.9,
 "currency": "$",
@@ -3329,15 +3347,6 @@
 "name": "Pokémon UT Graphic T-Shirt",
 "price": 9.9,
 "url": "https://www.uniqlo.com/us/en/products/E483675-000/00"
-},
-"E483676-000": {
-"base": 9.9,
-"currency": "$",
-"gender": "KIDS",
-"id": "E483676-000",
-"name": "Pokémon UT Graphic T-Shirt",
-"price": 9.9,
-"url": "https://www.uniqlo.com/us/en/products/E483676-000/00"
 },
 "E483677-000": {
 "base": 9.9,
@@ -3762,15 +3771,6 @@
 "price": 14.9,
 "url": "https://www.uniqlo.com/us/en/products/E484482-000/00"
 },
-"E484499-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E484499-000",
-"name": "miffy in bloom UT Graphic T-Shirt",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E484499-000/00"
-},
 "E484505-000": {
 "base": 49.9,
 "currency": "$",
@@ -4166,6 +4166,15 @@
 "name": "Boxer Briefs | 3 Pairs | Striped",
 "price": 12.9,
 "url": "https://www.uniqlo.com/us/en/products/E485389-000/00"
+},
+"E485391-000": {
+"base": 7.9,
+"currency": "$",
+"gender": "KIDS",
+"id": "E485391-000",
+"name": "BOYS Boxer Briefs 3P",
+"price": 7.9,
+"url": "https://www.uniqlo.com/us/en/products/E485391-000/00"
 },
 "E485393-000": {
 "base": 12.9,
@@ -6902,15 +6911,6 @@
 "name": "Windproof Stand Blouson",
 "price": 59.9,
 "url": "https://www.uniqlo.com/us/en/products/E487832-000/00"
-},
-"E487842-000": {
-"base": 99.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E487842-000",
-"name": "Duffle Coat",
-"price": 99.9,
-"url": "https://www.uniqlo.com/us/en/products/E487842-000/00"
 },
 "E487845-000": {
 "base": 29.9,
@@ -10917,6 +10917,15 @@
 "price": 24.9,
 "url": "https://www.uniqlo.com/us/en/products/E492778-000/00"
 },
+"E492785-000": {
+"base": 24.9,
+"currency": "$",
+"gender": "UNISEX",
+"id": "E492785-000",
+"name": "Sports Sunglasses | Half Rim",
+"price": 24.9,
+"url": "https://www.uniqlo.com/us/en/products/E492785-000/00"
+},
 "E492799-000": {
 "base": 24.9,
 "currency": "$",
@@ -11449,5 +11458,5 @@
 "url": "https://www.uniqlo.com/us/en/products/E495975-000/00"
 }
 },
-"saved_at": 1795395019
+"saved_at": 1795424367
 }
