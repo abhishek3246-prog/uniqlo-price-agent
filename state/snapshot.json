@@ -4492,13 +4492,13 @@
 "url": "https://www.uniqlo.com/us/en/products/E485717-000/00"
 },
 "E485735-000": {
-"base": 29.9,
+"base": 59.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E485735-000",
 "name": "Sweat Oversized Full-Zip Hoodie",
-"price": 29.9,
-"url": "https://www.uniqlo.com/us/en/products/E485735-000/01"
+"price": 59.9,
+"url": "https://www.uniqlo.com/us/en/products/E485735-000/00"
 },
 "E485737-000": {
 "base": 59.9,
@@ -7560,15 +7560,6 @@
 "price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E488227-000/00"
 },
-"E488230-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E488230-000",
-"name": "SUPIMA® Cotton T-Shirt | Long Sleeve",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E488230-000/00"
-},
 "E488234-000": {
 "base": 24.9,
 "currency": "$",
@@ -8595,15 +8586,6 @@
 "price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E489075-000/00"
 },
-"E489078-000": {
-"base": 19.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E489078-000",
-"name": "Relaxed V-Neck Cardigan",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E489078-000/00"
-},
 "E489085-000": {
 "base": 14.9,
 "currency": "$",
@@ -8909,15 +8891,6 @@
 "name": "PEACE FOR ALL Graphic T-Shirt | Sou Fujimoto",
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E489391-000/00"
-},
-"E489392-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E489392-000",
-"name": "Mickey＆Friends UT Graphic Mini T-Shirt | Long Sleeve",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E489392-000/00"
 },
 "E489393-000": {
 "base": 14.9,
@@ -10052,15 +10025,6 @@
 "name": "Mario Kart World UT Graphic T-Shirt",
 "price": 9.9,
 "url": "https://www.uniqlo.com/us/en/products/E491231-000/00"
-},
-"E491232-000": {
-"base": 9.9,
-"currency": "$",
-"gender": "KIDS",
-"id": "E491232-000",
-"name": "Mario Kart World UT Graphic T-Shirt",
-"price": 9.9,
-"url": "https://www.uniqlo.com/us/en/products/E491232-000/00"
 },
 "E491233-000": {
 "base": 9.9,
@@ -11485,5 +11449,5 @@
 "url": "https://www.uniqlo.com/us/en/products/E495975-000/00"
 }
 },
-"saved_at": 1795376103
+"saved_at": 1795395019
 }
