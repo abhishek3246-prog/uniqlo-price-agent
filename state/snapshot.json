@@ -478,12 +478,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E460431-000/00"
 },
 "E460490-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E460490-000",
 "name": "HEATTECH Crew Mellow Socks",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E460490-000/00"
 },
 "E460776-000": {
@@ -604,30 +604,30 @@
 "url": "https://www.uniqlo.com/us/en/products/E462233-000/00"
 },
 "E462236-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "MEN",
 "id": "E462236-000",
 "name": "HEATTECH Pile Lined Half Socks",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E462236-000/00"
 },
 "E462237-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "MEN",
 "id": "E462237-000",
 "name": "HEATTECH Pile Lined Socks",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E462237-000/00"
 },
 "E462244-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "MEN",
 "id": "E462244-000",
 "name": "HEATTECH Soft Pile Heather Socks",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E462244-000/00"
 },
 "E462336-000": {
@@ -703,12 +703,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E464311-000/00"
 },
 "E464329-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "MEN",
 "id": "E464329-000",
 "name": "HEATTECH Wide Ribbed Socks",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E464329-000/00"
 },
 "E464384-000": {
@@ -955,12 +955,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E469617-000/01"
 },
 "E469700-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E469700-000",
 "name": "HEATTECH Socks",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E469700-000/00"
 },
 "E469740-000": {
@@ -1072,12 +1072,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E470118-000/00"
 },
 "E470143-000": {
-"base": 29.9,
+"base": 19.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E470143-000",
 "name": "Soft Knitted Fleece T-Shirt | Long Sleeve",
-"price": 29.9,
+"price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E470143-000/00"
 },
 "E470182-000": {
@@ -1277,15 +1277,6 @@
 "name": "Clean Belt",
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E473471-000/00"
-},
-"E473533-000": {
-"base": 49.9,
-"currency": "$",
-"gender": "MEN",
-"id": "E473533-000",
-"name": "Super Non-Iron Jersey Slim Shirt | Striped",
-"price": 49.9,
-"url": "https://www.uniqlo.com/us/en/products/E473533-000/00"
 },
 "E473534-000": {
 "base": 49.9,
@@ -1504,13 +1495,13 @@
 "url": "https://www.uniqlo.com/us/en/products/E475647-000/00"
 },
 "E475649-000": {
-"base": 49.9,
+"base": 29.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E475649-000",
 "name": "Premium Linen Skipper Collar Shirt",
-"price": 49.9,
-"url": "https://www.uniqlo.com/us/en/products/E475649-000/00"
+"price": 29.9,
+"url": "https://www.uniqlo.com/us/en/products/E475649-000/01"
 },
 "E475761-000": {
 "base": 29.9,
@@ -1630,12 +1621,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E477181-000/00"
 },
 "E477345-000": {
-"base": 49.9,
+"base": 39.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E477345-000",
 "name": "Jersey Barrel Pants | Tall",
-"price": 49.9,
+"price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E477345-000/00"
 },
 "E477753-000": {
@@ -1729,12 +1720,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E478176-000/00"
 },
 "E478277-000": {
-"base": 179.9,
+"base": 149.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E478277-000",
 "name": "Hybrid Down Parka | 2025 Version",
-"price": 179.9,
+"price": 149.9,
 "url": "https://www.uniqlo.com/us/en/products/E478277-000/00"
 },
 "E478280-000": {
@@ -1828,12 +1819,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E478628-000/00"
 },
 "E478634-000": {
-"base": 19.9,
+"base": 14.9,
 "currency": "$",
 "gender": "KIDS",
 "id": "E478634-000",
 "name": "HEATTECH Ultra Warm T-Shirt",
-"price": 19.9,
+"price": 14.9,
 "url": "https://www.uniqlo.com/us/en/products/E478634-000/00"
 },
 "E478637-000": {
@@ -1846,12 +1837,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E478637-000/00"
 },
 "E478652-000": {
-"base": 19.9,
+"base": 14.9,
 "currency": "$",
 "gender": "KIDS",
 "id": "E478652-000",
 "name": "HEATTECH Ultra Warm Leggings",
-"price": 19.9,
+"price": 14.9,
 "url": "https://www.uniqlo.com/us/en/products/E478652-000/00"
 },
 "E478657-000": {
@@ -1882,12 +1873,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E478879-000/00"
 },
 "E478965-000": {
-"base": 34.9,
+"base": 29.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E478965-000",
 "name": "HEATTECH Ultra Warm T-Shirt",
-"price": 34.9,
+"price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E478965-000/00"
 },
 "E479000-000": {
@@ -2062,21 +2053,21 @@
 "url": "https://www.uniqlo.com/us/en/products/E479502-000/00"
 },
 "E479525-000": {
-"base": 34.9,
+"base": 29.9,
 "currency": "$",
 "gender": "MEN",
 "id": "E479525-000",
 "name": "HEATTECH Ultra Warm T-Shirt",
-"price": 34.9,
+"price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E479525-000/00"
 },
 "E479538-000": {
-"base": 34.9,
+"base": 29.9,
 "currency": "$",
 "gender": "MEN",
 "id": "E479538-000",
 "name": "HEATTECH Ultra Warm Tights",
-"price": 34.9,
+"price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E479538-000/00"
 },
 "E479546-000": {
@@ -2125,12 +2116,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E479755-000/00"
 },
 "E479791-000": {
-"base": 29.9,
+"base": 19.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E479791-000",
 "name": "Soft Knitted Fleece T-Shirt",
-"price": 29.9,
+"price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E479791-000/00"
 },
 "E479996-000": {
@@ -2143,12 +2134,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E479996-000/00"
 },
 "E480045-000": {
-"base": 179.9,
+"base": 149.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E480045-000",
 "name": "Hybrid Down Parka",
-"price": 179.9,
+"price": 149.9,
 "url": "https://www.uniqlo.com/us/en/products/E480045-000/00"
 },
 "E480054-000": {
@@ -2170,66 +2161,66 @@
 "url": "https://www.uniqlo.com/us/en/products/E480342-000/00"
 },
 "E480716-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E480716-000",
 "name": "HEATTECH Ribbed Cuff Roll Socks",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E480716-000/00"
 },
 "E480717-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E480717-000",
 "name": "HEATTECH Crew Socks | Relaxed",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E480717-000/00"
 },
 "E480721-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E480721-000",
 "name": "HEATTECH Socks | Cable",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E480721-000/00"
 },
 "E480726-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E480726-000",
 "name": "HEATTECH Socks | Ribbed",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E480726-000/00"
 },
 "E480727-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E480727-000",
 "name": "HEATTECH Slouchy Socks",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E480727-000/00"
 },
 "E480729-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E480729-000",
 "name": "HEATTECH Pile Room Socks",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E480729-000/00"
 },
 "E480732-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E480732-000",
 "name": "HEATTECH Knee High Socks | Ribbed",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E480732-000/00"
 },
 "E480736-000": {
@@ -2287,12 +2278,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E480868-000/00"
 },
 "E480966-000": {
-"base": 34.9,
+"base": 29.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E480966-000",
 "name": "HEATTECH Ultra Warm Leggings",
-"price": 34.9,
+"price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E480966-000/00"
 },
 "E481004-000": {
@@ -2359,12 +2350,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E481248-000/00"
 },
 "E481380-000": {
-"base": 9.9,
+"base": 7.9,
 "currency": "$",
 "gender": "KIDS",
 "id": "E481380-000",
 "name": "HEATTECH High Socks | 2 Pairs",
-"price": 9.9,
+"price": 7.9,
 "url": "https://www.uniqlo.com/us/en/products/E481380-000/00"
 },
 "E481441-000": {
@@ -2755,12 +2746,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E482321-000/01"
 },
 "E482325-000": {
-"base": 49.9,
+"base": 39.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E482325-000",
 "name": "Washable Milano Ribbed Skipper Polo Sweater",
-"price": 49.9,
+"price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E482325-000/00"
 },
 "E482434-000": {
@@ -3258,6 +3249,15 @@
 "price": 24.9,
 "url": "https://www.uniqlo.com/us/en/products/E483443-000/00"
 },
+"E483456-000": {
+"base": 14.9,
+"currency": "$",
+"gender": "WOMEN",
+"id": "E483456-000",
+"name": "Crew Neck T-Shirt",
+"price": 14.9,
+"url": "https://www.uniqlo.com/us/en/products/E483456-000/00"
+},
 "E483458-000": {
 "base": 14.9,
 "currency": "$",
@@ -3744,24 +3744,6 @@
 "price": 14.9,
 "url": "https://www.uniqlo.com/us/en/products/E484482-000/00"
 },
-"E484498-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E484498-000",
-"name": "miffy in bloom UT Graphic T-Shirt",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E484498-000/00"
-},
-"E484500-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E484500-000",
-"name": "miffy in bloom UT Graphic T-Shirt",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E484500-000/00"
-},
 "E484505-000": {
 "base": 49.9,
 "currency": "$",
@@ -3790,12 +3772,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E484607-000/00"
 },
 "E484610-000": {
-"base": 69.9,
+"base": 59.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E484610-000",
 "name": "Harrington Jacket",
-"price": 69.9,
+"price": 59.9,
 "url": "https://www.uniqlo.com/us/en/products/E484610-000/00"
 },
 "E484664-000": {
@@ -4158,6 +4140,15 @@
 "price": 12.9,
 "url": "https://www.uniqlo.com/us/en/products/E485389-000/00"
 },
+"E485391-000": {
+"base": 7.9,
+"currency": "$",
+"gender": "KIDS",
+"id": "E485391-000",
+"name": "BOYS Boxer Briefs 3P",
+"price": 7.9,
+"url": "https://www.uniqlo.com/us/en/products/E485391-000/00"
+},
 "E485393-000": {
 "base": 12.9,
 "currency": "$",
@@ -4167,40 +4158,31 @@
 "price": 12.9,
 "url": "https://www.uniqlo.com/us/en/products/E485393-000/00"
 },
-"E485394-000": {
-"base": 9.9,
-"currency": "$",
-"gender": "KIDS",
-"id": "E485394-000",
-"name": "HEATTECH Socks | 2 Pairs | Fair Isle",
-"price": 9.9,
-"url": "https://www.uniqlo.com/us/en/products/E485394-000/00"
-},
 "E485396-000": {
-"base": 9.9,
+"base": 7.9,
 "currency": "$",
 "gender": "KIDS",
 "id": "E485396-000",
 "name": "HEATTECH Socks | 2 Pairs | Line",
-"price": 9.9,
+"price": 7.9,
 "url": "https://www.uniqlo.com/us/en/products/E485396-000/00"
 },
 "E485397-000": {
-"base": 9.9,
+"base": 7.9,
 "currency": "$",
 "gender": "KIDS",
 "id": "E485397-000",
 "name": "HEATTECH Socks | 2 Pairs | Dot",
-"price": 9.9,
+"price": 7.9,
 "url": "https://www.uniqlo.com/us/en/products/E485397-000/00"
 },
 "E485400-000": {
-"base": 9.9,
+"base": 7.9,
 "currency": "$",
 "gender": "KIDS",
 "id": "E485400-000",
 "name": "HEATTECH Socks | 2 Pairs | Shaggy",
-"price": 9.9,
+"price": 7.9,
 "url": "https://www.uniqlo.com/us/en/products/E485400-000/00"
 },
 "E485402-000": {
@@ -4500,15 +4482,6 @@
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E485744-000/00"
 },
-"E485756-000": {
-"base": 24.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E485756-000",
-"name": "Square Sunglasses",
-"price": 24.9,
-"url": "https://www.uniqlo.com/us/en/products/E485756-000/00"
-},
 "E485757-000": {
 "base": 24.9,
 "currency": "$",
@@ -4789,12 +4762,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E486167-000/00"
 },
 "E486171-000": {
-"base": 79.9,
+"base": 59.9,
 "currency": "$",
 "gender": "MEN",
 "id": "E486171-000",
 "name": "PUFFTECH Jacket",
-"price": 79.9,
+"price": 59.9,
 "url": "https://www.uniqlo.com/us/en/products/E486171-000/00"
 },
 "E486172-000": {
@@ -4816,12 +4789,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E486176-000/00"
 },
 "E486177-000": {
-"base": 99.9,
+"base": 79.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E486177-000",
 "name": "Light Down Volume Jacket",
-"price": 99.9,
+"price": 79.9,
 "url": "https://www.uniqlo.com/us/en/products/E486177-000/00"
 },
 "E486184-000": {
@@ -4942,12 +4915,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E486316-000/00"
 },
 "E486317-000": {
-"base": 29.9,
+"base": 19.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E486317-000",
 "name": "Ribbed Wide Easy Pants",
-"price": 29.9,
+"price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E486317-000/00"
 },
 "E486320-000": {
@@ -5464,12 +5437,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E486638-000/01"
 },
 "E486658-000": {
-"base": 19.9,
+"base": 14.9,
 "currency": "$",
 "gender": "KIDS",
 "id": "E486658-000",
 "name": "Soft Knitted Fleece T-Shirt",
-"price": 19.9,
+"price": 14.9,
 "url": "https://www.uniqlo.com/us/en/products/E486658-000/00"
 },
 "E486660-000": {
@@ -5527,12 +5500,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E486678-000/00"
 },
 "E486755-000": {
-"base": 49.9,
+"base": 39.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E486755-000",
 "name": "Cashmere Knitted Beanie",
-"price": 49.9,
+"price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E486755-000/00"
 },
 "E486756-000": {
@@ -5563,12 +5536,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E486758-000/00"
 },
 "E486760-000": {
-"base": 69.9,
+"base": 59.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E486760-000",
 "name": "Cashmere Scarf",
-"price": 69.9,
+"price": 59.9,
 "url": "https://www.uniqlo.com/us/en/products/E486760-000/00"
 },
 "E486763-000": {
@@ -5581,12 +5554,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E486763-000/00"
 },
 "E486764-000": {
-"base": 49.9,
+"base": 39.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E486764-000",
 "name": "Cashmere Knitted Gloves",
-"price": 49.9,
+"price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E486764-000/00"
 },
 "E486772-000": {
@@ -5734,75 +5707,75 @@
 "url": "https://www.uniqlo.com/us/en/products/E486916-000/00"
 },
 "E486939-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E486939-000",
 "name": "HEATTECH Socks | Argyle",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E486939-000/00"
 },
 "E486940-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E486940-000",
 "name": "HEATTECH Socks | Pile Lined",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E486940-000/00"
 },
 "E486941-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E486941-000",
 "name": "HEATTECH Half Socks | Multi-Striped",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E486941-000/00"
 },
 "E486942-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E486942-000",
 "name": "HEATTECH Half Socks | Bi-color",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E486942-000/00"
 },
 "E486948-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "MEN",
 "id": "E486948-000",
 "name": "HEATTECH Fluffy Striped Socks",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E486948-000/00"
 },
 "E486951-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "MEN",
 "id": "E486951-000",
 "name": "HEATTECH Wide Ribbed Knee High Socks",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E486951-000/00"
 },
 "E486955-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "MEN",
 "id": "E486955-000",
 "name": "HEATTECH Socks",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E486955-000/00"
 },
 "E486957-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "MEN",
 "id": "E486957-000",
 "name": "HEATTECH Half Socks | Pile | Soft Fit",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E486957-000/00"
 },
 "E486986-000": {
@@ -6139,66 +6112,66 @@
 "url": "https://www.uniqlo.com/us/en/products/E487128-000/00"
 },
 "E487133-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E487133-000",
 "name": "HEATTECH Socks | Argyle",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E487133-000/00"
 },
 "E487136-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E487136-000",
 "name": "HEATTECH Socks | Fair Isle",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E487136-000/00"
 },
 "E487137-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E487137-000",
 "name": "HEATTECH Socks | Snow",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E487137-000/00"
 },
 "E487141-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E487141-000",
 "name": "HEATTECH Knee High Socks",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E487141-000/00"
 },
 "E487149-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E487149-000",
 "name": "HEATTECH Socks | Slouch Line",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E487149-000/00"
 },
 "E487152-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E487152-000",
 "name": "HEATTECH Socks | Popcorn Line",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E487152-000/00"
 },
 "E487153-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E487153-000",
 "name": "HEATTECH Socks | Frill",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E487153-000/00"
 },
 "E487175-000": {
@@ -6227,15 +6200,6 @@
 "name": "HEATTECH Extra Warm Cashmere Leggings",
 "price": 24.9,
 "url": "https://www.uniqlo.com/us/en/products/E487201-000/00"
-},
-"E487202-000": {
-"base": 19.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E487202-000",
-"name": "Washable Knit Bra Top",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E487202-000/00"
 },
 "E487206-000": {
 "base": 59.9,
@@ -6310,12 +6274,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E487251-000/00"
 },
 "E487257-000": {
-"base": 59.9,
+"base": 49.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E487257-000",
 "name": "Brushed Jersey Wide Pants",
-"price": 59.9,
+"price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E487257-000/00"
 },
 "E487258-000": {
@@ -6362,15 +6326,6 @@
 "name": "Combination Tiered Dress",
 "price": 14.9,
 "url": "https://www.uniqlo.com/us/en/products/E487286-000/00"
-},
-"E487294-000": {
-"base": 39.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E487294-000",
-"name": "Knitted Polo Dress",
-"price": 39.9,
-"url": "https://www.uniqlo.com/us/en/products/E487294-000/00"
 },
 "E487323-000": {
 "base": 229.9,
@@ -6445,21 +6400,21 @@
 "url": "https://www.uniqlo.com/us/en/products/E487348-000/00"
 },
 "E487396-000": {
-"base": 59.9,
+"base": 49.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E487396-000",
 "name": "Cotton Blend Utility Parka",
-"price": 59.9,
+"price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E487396-000/00"
 },
 "E487408-000": {
-"base": 79.9,
+"base": 59.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E487408-000",
 "name": "PUFFTECH Jacket",
-"price": 79.9,
+"price": 59.9,
 "url": "https://www.uniqlo.com/us/en/products/E487408-000/00"
 },
 "E487412-000": {
@@ -6490,12 +6445,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E487423-000/00"
 },
 "E487424-000": {
-"base": 149.9,
+"base": 129.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E487424-000",
 "name": "Reversible Down Short Jacket",
-"price": 149.9,
+"price": 129.9,
 "url": "https://www.uniqlo.com/us/en/products/E487424-000/00"
 },
 "E487425-000": {
@@ -6724,21 +6679,21 @@
 "url": "https://www.uniqlo.com/us/en/products/E487579-000/00"
 },
 "E487589-000": {
-"base": 39.9,
+"base": 29.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E487589-000",
 "name": "Cotton Volume Easy Pants",
-"price": 39.9,
+"price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E487589-000/00"
 },
 "E487594-000": {
-"base": 59.9,
+"base": 49.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E487594-000",
 "name": "Pile Lined Fleece Combination Jacket",
-"price": 59.9,
+"price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E487594-000/00"
 },
 "E487595-000": {
@@ -6885,15 +6840,6 @@
 "price": 59.9,
 "url": "https://www.uniqlo.com/us/en/products/E487832-000/00"
 },
-"E487842-000": {
-"base": 99.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E487842-000",
-"name": "Duffle Coat",
-"price": 99.9,
-"url": "https://www.uniqlo.com/us/en/products/E487842-000/00"
-},
 "E487845-000": {
 "base": 29.9,
 "currency": "$",
@@ -6939,15 +6885,6 @@
 "price": 79.9,
 "url": "https://www.uniqlo.com/us/en/products/E487882-000/00"
 },
-"E487883-000": {
-"base": 39.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E487883-000",
-"name": "Coated Blouson",
-"price": 39.9,
-"url": "https://www.uniqlo.com/us/en/products/E487883-000/00"
-},
 "E487888-000": {
 "base": 14.9,
 "currency": "$",
@@ -6976,12 +6913,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E487908-000/01"
 },
 "E487929-000": {
-"base": 39.9,
+"base": 29.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E487929-000",
 "name": "Fleece Button-Up Pullover",
-"price": 39.9,
+"price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E487929-000/00"
 },
 "E487931-000": {
@@ -7354,12 +7291,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E488106-000/00"
 },
 "E488109-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "MEN",
 "id": "E488109-000",
 "name": "HEATTECH Socks",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E488109-000/00"
 },
 "E488139-000": {
@@ -7390,21 +7327,21 @@
 "url": "https://www.uniqlo.com/us/en/products/E488147-000/00"
 },
 "E488148-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "MEN",
 "id": "E488148-000",
 "name": "HEATTECH Socks | Cable",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E488148-000/00"
 },
 "E488149-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "MEN",
 "id": "E488149-000",
 "name": "HEATTECH Socks | Checked",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E488149-000/00"
 },
 "E488157-000": {
@@ -7426,21 +7363,21 @@
 "url": "https://www.uniqlo.com/us/en/products/E488163-000/00"
 },
 "E488167-000": {
-"base": 29.9,
+"base": 19.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E488167-000",
 "name": "Ribbed Wide Easy Pants | Stripe",
-"price": 29.9,
+"price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E488167-000/00"
 },
 "E488168-000": {
-"base": 29.9,
+"base": 19.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E488168-000",
 "name": "Ribbed Wide Easy Pants | Flower",
-"price": 29.9,
+"price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E488168-000/00"
 },
 "E488169-000": {
@@ -7497,15 +7434,6 @@
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E488185-000/00"
 },
-"E488186-000": {
-"base": 29.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E488186-000",
-"name": "Double Face Knit Sleeveless Dress",
-"price": 29.9,
-"url": "https://www.uniqlo.com/us/en/products/E488186-000/00"
-},
 "E488193-000": {
 "base": 14.9,
 "currency": "$",
@@ -7542,15 +7470,6 @@
 "price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E488200-000/00"
 },
-"E488204-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E488204-000",
-"name": "Corduroy Mini Skirt",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E488204-000/00"
-},
 "E488210-000": {
 "base": 29.9,
 "currency": "$",
@@ -7568,15 +7487,6 @@
 "name": "3D Knit Cotton Volume Sleeve Sweater | Stripe",
 "price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E488227-000/00"
-},
-"E488228-000": {
-"base": 19.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E488228-000",
-"name": "Turtleneck Long T-Shirt | Long Sleeve",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E488228-000/00"
 },
 "E488230-000": {
 "base": 14.9,
@@ -7893,15 +7803,6 @@
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E488571-000/00"
 },
-"E488599-000": {
-"base": 29.9,
-"currency": "$",
-"gender": "MEN",
-"id": "E488599-000",
-"name": "Brushed Full-Zip Blouson",
-"price": 29.9,
-"url": "https://www.uniqlo.com/us/en/products/E488599-000/00"
-},
 "E488644-000": {
 "base": 24.9,
 "currency": "$",
@@ -8072,15 +7973,6 @@
 "name": "Rugger Shirt",
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E488751-000/00"
-},
-"E488758-000": {
-"base": 19.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E488758-000",
-"name": "Double Face Sweater",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E488758-000/00"
 },
 "E488760-000": {
 "base": 39.9,
@@ -8461,12 +8353,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E488946-000/00"
 },
 "E488947-000": {
-"base": 9.9,
+"base": 7.9,
 "currency": "$",
 "gender": "KIDS",
 "id": "E488947-000",
 "name": "HEATTECH Socks | 2 Pairs | Cable",
-"price": 9.9,
+"price": 7.9,
 "url": "https://www.uniqlo.com/us/en/products/E488947-000/00"
 },
 "E488957-000": {
@@ -8488,30 +8380,30 @@
 "url": "https://www.uniqlo.com/us/en/products/E488958-000/00"
 },
 "E488962-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E488962-000",
 "name": "HEATTECH Socks | Mix Yarn",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E488962-000/00"
 },
 "E488963-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E488963-000",
 "name": "HEATTECH Socks | Room Line",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E488963-000/00"
 },
 "E488964-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E488964-000",
 "name": "HEATTECH Socks | Soft Fluffy",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E488964-000/00"
 },
 "E489012-000": {
@@ -8595,15 +8487,6 @@
 "price": 14.9,
 "url": "https://www.uniqlo.com/us/en/products/E489058-000/00"
 },
-"E489060-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E489060-000",
-"name": "Striped Polo Shirt | Long Sleeve",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E489060-000/00"
-},
 "E489071-000": {
 "base": 19.9,
 "currency": "$",
@@ -8631,15 +8514,6 @@
 "price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E489075-000/00"
 },
-"E489078-000": {
-"base": 19.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E489078-000",
-"name": "Relaxed V-Neck Cardigan",
-"price": 19.9,
-"url": "https://www.uniqlo.com/us/en/products/E489078-000/00"
-},
 "E489085-000": {
 "base": 14.9,
 "currency": "$",
@@ -8648,15 +8522,6 @@
 "name": "DRY-EX Polo Shirt | Adam Scott",
 "price": 14.9,
 "url": "https://www.uniqlo.com/us/en/products/E489085-000/00"
-},
-"E489108-000": {
-"base": 39.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E489108-000",
-"name": "Jersey Tailored Jacket",
-"price": 39.9,
-"url": "https://www.uniqlo.com/us/en/products/E489108-000/00"
 },
 "E489121-000": {
 "base": 49.9,
@@ -8767,12 +8632,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E489162-000/00"
 },
 "E489163-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "MEN",
 "id": "E489163-000",
 "name": "HEATTECH Socks",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E489163-000/00"
 },
 "E489168-000": {
@@ -8821,12 +8686,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E489190-000/00"
 },
 "E489191-000": {
-"base": 49.9,
+"base": 39.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E489191-000",
 "name": "Brushed Jersey Barrel Pants",
-"price": 49.9,
+"price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E489191-000/00"
 },
 "E489227-000": {
@@ -8918,15 +8783,6 @@
 "name": "Straight Jeans | Distressed | Tall",
 "price": 59.9,
 "url": "https://www.uniqlo.com/us/en/products/E489368-000/00"
-},
-"E489372-000": {
-"base": 14.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E489372-000",
-"name": "Mini T-Shirt | Long Sleeve | Raglan",
-"price": 14.9,
-"url": "https://www.uniqlo.com/us/en/products/E489372-000/00"
 },
 "E489386-000": {
 "base": 29.9,
@@ -9135,15 +8991,6 @@
 "price": 49.9,
 "url": "https://www.uniqlo.com/us/en/products/E489448-000/00"
 },
-"E489451-000": {
-"base": 29.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E489451-000",
-"name": "Cotton Stand Collar Shirt | Stripe",
-"price": 29.9,
-"url": "https://www.uniqlo.com/us/en/products/E489451-000/00"
-},
 "E489452-000": {
 "base": 29.9,
 "currency": "$",
@@ -9154,12 +9001,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E489452-000/00"
 },
 "E489455-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "MEN",
 "id": "E489455-000",
 "name": "HEATTECH Pile Half Socks | Color Block | Soft Fit",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E489455-000/00"
 },
 "E489456-000": {
@@ -9296,15 +9143,6 @@
 "name": "Jean-Michel Basquiat UV Protection Cap",
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E489608-001/00"
-},
-"E489611-000": {
-"base": 24.9,
-"currency": "$",
-"gender": "UNISEX",
-"id": "E489611-000",
-"name": "UV Protection Compact Umbrella",
-"price": 24.9,
-"url": "https://www.uniqlo.com/us/en/products/E489611-000/00"
 },
 "E489651-000": {
 "base": 14.9,
@@ -9469,30 +9307,30 @@
 "url": "https://www.uniqlo.com/us/en/products/E489681-000/00"
 },
 "E489685-000": {
-"base": 29.9,
+"base": 19.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E489685-000",
 "name": "Ribbed Wide Easy Pants | Tall",
-"price": 29.9,
+"price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E489685-000/00"
 },
 "E489686-000": {
-"base": 29.9,
+"base": 19.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E489686-000",
 "name": "Ribbed Wide Easy Pants | Stripe | Tall",
-"price": 29.9,
+"price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E489686-000/00"
 },
 "E489687-000": {
-"base": 29.9,
+"base": 19.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E489687-000",
 "name": "Ribbed Wide Easy Pants | Flower | Tall",
-"price": 29.9,
+"price": 19.9,
 "url": "https://www.uniqlo.com/us/en/products/E489687-000/00"
 },
 "E489763-000": {
@@ -9730,12 +9568,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E490438-000/00"
 },
 "E490451-000": {
-"base": 49.9,
+"base": 39.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E490451-000",
 "name": "Jersey Barrel Pants | Short",
-"price": 49.9,
+"price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E490451-000/00"
 },
 "E490460-000": {
@@ -9757,12 +9595,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E490468-000/00"
 },
 "E490470-000": {
-"base": 49.9,
+"base": 39.9,
 "currency": "$",
 "gender": "KIDS",
 "id": "E490470-000",
 "name": "Padded Blouson",
-"price": 49.9,
+"price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E490470-000/00"
 },
 "E490573-000": {
@@ -10090,12 +9928,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E491186-000/00"
 },
 "E491190-000": {
-"base": 99.9,
+"base": 79.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E491190-000",
 "name": "Padded Shirt Coat | Relaxed",
-"price": 99.9,
+"price": 79.9,
 "url": "https://www.uniqlo.com/us/en/products/E491190-000/00"
 },
 "E491201-000": {
@@ -10395,24 +10233,6 @@
 "price": 29.9,
 "url": "https://www.uniqlo.com/us/en/products/E491495-000/00"
 },
-"E491519-000": {
-"base": 49.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E491519-000",
-"name": "Smart Wide Straight Pants",
-"price": 49.9,
-"url": "https://www.uniqlo.com/us/en/products/E491519-000/00"
-},
-"E491531-000": {
-"base": 49.9,
-"currency": "$",
-"gender": "WOMEN",
-"id": "E491531-000",
-"name": "Jersey Barrel Leg Pants",
-"price": 49.9,
-"url": "https://www.uniqlo.com/us/en/products/E491531-000/00"
-},
 "E491553-000": {
 "base": 49.9,
 "currency": "$",
@@ -10450,12 +10270,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E491571-000/01"
 },
 "E491588-000": {
-"base": 49.9,
+"base": 39.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E491588-000",
 "name": "Smooth Cotton Sweater",
-"price": 49.9,
+"price": 39.9,
 "url": "https://www.uniqlo.com/us/en/products/E491588-000/00"
 },
 "E491606-000": {
@@ -10522,12 +10342,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E491888-000/00"
 },
 "E491889-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E491889-000",
 "name": "HEATTECH Socks | Top Roll Heart",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E491889-000/00"
 },
 "E491966-000": {
@@ -10783,12 +10603,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E492267-000/00"
 },
 "E492318-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "WOMEN",
 "id": "E492318-000",
 "name": "HEATTECH Socks | One Point",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E492318-000/00"
 },
 "E492366-000": {
@@ -10990,12 +10810,12 @@
 "url": "https://www.uniqlo.com/us/en/products/E492535-003/00"
 },
 "E492545-000": {
-"base": 7.9,
+"base": 5.9,
 "currency": "$",
 "gender": "UNISEX",
 "id": "E492545-000",
 "name": "HEATTECH Anti-Odor Socks",
-"price": 7.9,
+"price": 5.9,
 "url": "https://www.uniqlo.com/us/en/products/E492545-000/00"
 },
 "E492577-000": {
@@ -11674,5 +11494,5 @@
 "url": "https://www.uniqlo.com/us/en/products/E495975-000/00"
 }
 },
-"saved_at": 1795645803
+"saved_at": 1795669209
 }
